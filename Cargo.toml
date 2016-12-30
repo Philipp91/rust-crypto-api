@@ -1,0 +1,11 @@
+[package]
+name = "crypto-api"
+version = "0.1.0"
+authors = ["Philipp Keck <philipp@philippkeck.de>"]
+
+[dependencies]
+byteorder = "0.5.3"
+
+[dev-dependencies]
+ring = "0.6.1"
+rustc-serialize = "0.3"
